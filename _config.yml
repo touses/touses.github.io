@@ -1,13 +1,13 @@
 # Site settings
-title: ivo Blog
-SEOTitle: 老王的自留地 | ivo Blog
+title: 陶司的部落格 touses blog
+SEOTitle: blog
 header-img: "img/tag.jpg"
-email: wxtbeyond@gmail.com
-description: 这里是老王的自留地，一切都是老王和媳妇老张说了算，爱写啥写啥，也不打算开放评论，就这样吧。 #"Every failure is leading towards success."
-keyword: "ivo, ivo Blog, linux, network, IVO, 老王, 网络, 技巧"
-url: "http://ivo-wang.github.io"          # your host, for absolute URL
+email: ***********
+description: 这里是我的博客，不可以评论。 #"Every failure is leading towards success."
+keyword: "touses, touses Blog, network, touse, 陶司, 网络"
+url: "http://touses.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ivo-wang/ivo-wang.github.io.git" # you code repository
+github_repo: "https://github.com/touses/touses.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,11 +19,11 @@ sidebar-avatar: /img/lookup.jpg      # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: true
 # weibo_username:     qiubaiying
-zhihu_username:     xiceman
-github_username:    ivo-wang
+#zhihu_username:     xiceman
+#github_username:    ivo-wang
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-twitter_username:   IvoWang
+#twitter_username:   IvoWang
 
 
 
@@ -103,16 +103,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "linux中国",
-        href: "http://linux.cn"
-    },{
-        title: "linux命令行",
-        href: "http://man.linuxde.net/"
-    },{
-        title: "害虫",
-        href: "http://ezlost.com"
-    },{
-        title: "谷歌开发者",
-        href: "https://developers.google.cn/"
+        title: "link3",
+        href: "https://link3.cc/gepr"
     }
 ]
